@@ -1,0 +1,49 @@
+.our-work {
+  &__wrapper {
+    position: relative;
+    &--image {
+      text-align: center;
+    }
+    &--description {
+        position: absolute;
+        right: 0;
+        top: 35%;
+        height: 160px;
+        width: 230px;
+        padding: 45px 35px 25px 30px;
+        background: $primary-color;
+        h6 {
+          padding: 30px 0 35px;
+        }
+        &, a {
+        color: white;
+        a {
+          font-family: 'Circular';
+        }
+        img {
+          vertical-align: middle;
+        }
+      }
+    }
+  }
+}
+@include respondTo('smartphone') {
+  .our-work {
+    &__wrapper {
+      &--image {
+        img {
+          width: 100%
+        }
+      }
+      &--description {
+        top: 70%;
+        max-height: 120px;
+        max-width: 250px;
+        padding: 30px 15px;
+        h6 {
+          padding: 20px 0 30px;
+        }
+      }
+    }
+  }
+}

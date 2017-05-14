@@ -1,0 +1,93 @@
+---
+en:
+  header:
+    contact: 'Contact Us'
+  hero:
+    subtitle: 'Level up your bussiness, we are'
+    title: 'Your tech partner in crime'
+  about_us:
+    title: 'About Us'
+    description: 'We work to grow and maintain a transparent collaboration that extends beyond a launch date. From concept to delivery, we offer solutions that will ensure a successful product.'
+    sub_description: 'That’s the way we do it.'
+  expertise:
+    title: 'Expertise'
+    expertises:
+      - image: 'web.svg'
+        title: 'Web / Mobile Development'
+        content: 'We use our expertise in a variety of technologies to craft code that opens the door for ongoing iterations with our clients users.'
+        skill_list:
+          - skill: 'Ruby on Rails'
+          - skill: 'React'
+          - skill: 'Python / Django'
+          - skill: 'IOS'
+          - skill: 'Android'
+          - skill: 'React Native'
+
+      - image: 'product.svg'
+        title: 'Product Design'
+        content: 'Everyone wants an award winning app, but getting to 5 stars isn’t easy. We partner with companies to create strategies that guide them to success.'
+        skill_list:
+          - skill: 'Sprint Design'
+          - skill: 'Research'
+          - skill: 'Usability/UX'
+          - skill: 'User Interface Design'
+          - skill: 'Mobile Design'
+          - skill: 'User Growth'
+
+      - image: 'business.svg'
+        title: 'Business & Product Innovation'
+        content: 'Innovate and get ahead. Define your business goals and validate opportunities with fresh understanding of what your customers need most.'
+        skill_list:
+          - skill: 'Sprint Design'
+          - skill: 'Research'
+          - skill: 'Usability/UX'
+          - skill: 'User Interface Design'
+          - skill: 'Mobile Design'
+          - skill: 'User Growth'
+
+    cta: 'Get in Touch'
+  skills:
+    - development:
+      skill_list:
+        - skill: 'Ruby on Rails'
+        - skill: 'React'
+        - skill: 'Python / Django'
+        - skill: 'IOS'
+        - skill: 'Android'
+        - skill: 'React Native'
+    - product:
+      skill_list:
+        - skill: 'Sprint Design'
+        - skill: 'Research'
+        - skill: 'Usability/UX'
+        - skill: 'User Interface Design'
+        - skill: 'Mobile Design'
+        - skill: 'User Growth'
+    - business:
+      skill_list:
+        - skill: 'Sprint Design'
+        - skill: 'Research'
+        - skill: 'Usability/UX'
+        - skill: 'User Interface Design'
+        - skill: 'Mobile Design'
+        - skill: 'User Growth'
+  our_work:
+    title: 'Our Work'
+    projects:
+      - title: 'EasyGym'
+        description: 'Evlving and expanding an online presence.'
+        link: 'google.com'
+        linktext: 'View Project'
+  footer_top:
+    title: "Let's make something awesome together!"
+    subtitle: 'Wondering Next Steps?'
+    cta: 'Get in Touch'
+  footer_bottom:
+    copyright: '© 2017 Focus Lab.'
+    social:
+      - name: 'Twitter'
+        link: 'google.com'
+      - name: 'Instagram'
+        link: 'google.com'
+      - name: 'Dribbble'
+        link: 'google.com'
